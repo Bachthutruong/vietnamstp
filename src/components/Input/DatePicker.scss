@@ -220,7 +220,6 @@ input {
       text-align: center;
       position: relative;
       user-select: none;
-      overflow: hidden;
       flex: 1;
     }
 
@@ -546,7 +545,6 @@ input {
 
 .flatpickr-weekdays {
   text-align: center;
-  overflow: hidden;
   width: 100%;
   display: flex;
   align-items: center;
@@ -580,7 +578,6 @@ span.flatpickr-weekday {
 
 .flatpickr-days {
   position: relative;
-  overflow: hidden;
   display: flex;
   align-items: flex-start;
   width: $daysWidth;
@@ -770,7 +767,6 @@ span.flatpickr-weekday {
 .flatpickr-innerContainer {
   display: flex;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 .flatpickr-rContainer {
@@ -786,7 +782,6 @@ span.flatpickr-weekday {
   line-height: $timeHeight;
   max-height: $timeHeight;
   box-sizing: border-box;
-  overflow: hidden;
   display: flex;
 
   &:after {
