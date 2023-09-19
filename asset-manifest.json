@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.004c7d11.chunk.css",
+    "main.js": "/static/js/main.541bb2b9.chunk.js",
+    "main.js.map": "/static/js/main.541bb2b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.78a10352.js",
+    "runtime-main.js.map": "/static/js/runtime-main.78a10352.js.map",
+    "static/css/2.74dc73a7.chunk.css": "/static/css/2.74dc73a7.chunk.css",
+    "static/js/2.2d0359bb.chunk.js": "/static/js/2.2d0359bb.chunk.js",
+    "static/js/2.2d0359bb.chunk.js.map": "/static/js/2.2d0359bb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.74dc73a7.chunk.css.map": "/static/css/2.74dc73a7.chunk.css.map",
+    "static/css/main.004c7d11.chunk.css.map": "/static/css/main.004c7d11.chunk.css.map",
+    "static/js/2.2d0359bb.chunk.js.LICENSE.txt": "/static/js/2.2d0359bb.chunk.js.LICENSE.txt",
+    "static/media/HangMuc.scss": "/static/media/15 hạng mục-15.1a9485ed.svg",
+    "static/media/HomeHeader.scss": "/static/media/Bộ logo Vietnam Startup Award 2023-16.987b2a72.svg",
+    "static/media/Benefit.scss": "/static/media/benefit_3.4bc902f3.svg",
+    "static/media/styles.scss": "/static/media/fa-solid-900.d279d01b.svg",
+    "static/media/pass.2590675e.svg": "/static/media/pass.2590675e.svg",
+    "static/media/user.82ea1694.svg": "/static/media/user.82ea1694.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a10352.js",
+    "static/css/2.74dc73a7.chunk.css",
+    "static/js/2.2d0359bb.chunk.js",
+    "static/css/main.004c7d11.chunk.css",
+    "static/js/main.541bb2b9.chunk.js"
+  ]
+}
