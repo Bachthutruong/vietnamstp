@@ -5,6 +5,10 @@ import Intro from '../HomePage/Intro/Intro';
 import HangMuc from '../HomePage/CacHangMuc/HangMuc';
 import Information from '../HomePage/Information/Information';
 import Benefit from '../HomePage/Benifit/Benifit';
+import Form from '../HomePage/Form/Form';
+import Question from '../HomePage/Question/Question';
+import Footer from '../HomePage/Footer/Footer'
+import Judg from '../HomePage/Judg/Judg'
 class HomePage extends Component {
     render() {
         return (
@@ -14,6 +18,10 @@ class HomePage extends Component {
             <HangMuc/>
             <Information/>
             <Benefit/>
+            <Form/>
+            <Judg/>
+            <Question/>
+            <Footer/>
             </>
         );
     }
